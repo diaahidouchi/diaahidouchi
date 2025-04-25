@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Diaa and I'm a a fighter with some gambling issues and coding skills</p>
+<p align="left">My name is Diaa and I'm a fighter with some gambling issues and coding skills</p>
 
 ###
 
