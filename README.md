@@ -70,8 +70,4 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/diaahidouchi/diaahidouchi/output/snake.svg" alt="Snake animation" />
-
-###
